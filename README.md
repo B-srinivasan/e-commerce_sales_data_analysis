@@ -44,26 +44,9 @@ Sample data is stored in a CSV file (`data.csv`) with the following columns:
 ## 🚀 How to Run This Project
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/ecommerce-analysis-dashboard.git
 cd ecommerce-analysis-dashboard
 2. Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3. Run the Streamlit App
-bash
-Copy
-Edit
 streamlit run streamlit_dashboard.py
-📊 Features
-View basic data info (rows, columns, types)
 
-Calculate total revenue
-
-Analyze revenue by category
-
-Identify top 3 selling products
-
-Simple and clean UI for easy navigation
